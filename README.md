@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View the app using the link: friendlyfinds.web.app
+View the app using the link: (friendlyfinds.web.app)
 
 ## Run Locally
 
