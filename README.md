@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/76e98d36-ad7d-4ba3-a1e8-f06cdc01288a
+View the app using the link: friendlyfinds.web.app
 
 ## Run Locally
 
